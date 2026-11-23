@@ -1,0 +1,5 @@
+Modelo,AUROC,AUPRC,Brier
+Regressão logística,0.672,0.1442,0.0765
+Gradient boosting,0.6904,0.1549,0.0773
+Média (modelo final),0.6933,0.1567,0.076
+Referência (prevalência),0.5,0.0859,0.0786
